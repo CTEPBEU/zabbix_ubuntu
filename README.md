@@ -3,7 +3,7 @@ Zabbix 7.2, PostgreSQL17, PHP8.3, Nginx
 
 Install:
 
-wget -O /tmp/install_zabbix_ru2.sh https://github.com/CTEPBEU/zabbix_ubuntu/raw/refs/heads/main/install_zabbix_ru2.sh
+wget -O /tmp/install_zabbix_ru2.sh https://raw.githubusercontent.com/CTEPBEU/zabbix_ubuntu/refs/heads/main/install_zabbix_ru2.sh
 
 chmod +x /tmp/install_zabbix_ru2.sh
 
