@@ -25,7 +25,7 @@ Configures the database, web interface, locale, and permissions
 Works on Ubuntu 24.04 and gets everything ready for login
 
 What the Script Does
-The script — available [via link / in the attachment] — performs the following:
+The script — performs the following:
 
 1. Check & Prepare
 
